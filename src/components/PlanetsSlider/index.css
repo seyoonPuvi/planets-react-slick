@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.title {
+  color: #05acff;
+  text-transform: uppercase;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.slide-cont {
+  width: 80%;
+  margin: auto;
+}

@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.planet-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.planet-img {
+  height: 20rem;
+  width: 20rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.name {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 1.6rem;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
